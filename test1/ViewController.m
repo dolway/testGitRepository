@@ -17,9 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    
-    
-    
     //11分支
     // Do any additional setup after loading the view, typically from a nib.
 }
